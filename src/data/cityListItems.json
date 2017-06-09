@@ -1,0 +1,206 @@
+cityListItems = {
+  'US City List': {
+    Alabama: [
+      {city: 'Birmingham, AL', param: 'birmingham'},
+      {city: 'Mobile, AL / Pensacola, FL', param: 'mobile-pensacola'},
+    ],
+    Alaska: [
+      {city: 'Anchorage, AK', param: 'anchorage' },
+    ],
+    Arizona: [
+      {city: 'Phoenix, AZ', param: 'phoenix'},
+      {city: 'Tucson, AZ', param: 'tucson'},
+    ],
+    Arkansas: [
+      {city: 'Little Rock, AR', param: 'little-rock'},
+    ],
+    California: [
+      {city: 'Bakersfield, CA', param: 'bakersfield'},
+      {city: 'Chico / Redding, CA', param: 'chico-redding'},
+      {city: 'Fresno, CA', param: 'fresno'},
+      {city: 'Los Angeles, CA', param: 'los-angeles'},
+      {city: 'Riverside / San Bernardino, CA', param: 'riverside-san-bernardino'},
+      {city: 'Sacramento, CA', param: 'sacramento'},
+      {city: 'San Diego, CA', param: 'san-diego'},
+      {city: 'San Francisco, CA', param: 'san-francisco'},
+      {city: 'San Jose, CA', param: 'san-jose'},
+      {city: 'San Luis Obispo, CA', param: 'san-luis-obispo'},
+      {city: 'Stockton / Modesto, CA', param: 'stockton-modesto'},
+      {city: 'Oxnard / Ventura, CA', param: 'oxnard-ventura' },
+    ],
+    Colorado: [
+      {city: 'Denver/Colorado Springs, CO', param: 'denver-colorado-springs'},
+    ],
+    Connecticut: [
+      {city: 'All Connecticut', param: 'connecticut'},
+    ],
+    Delaware: [
+      {city: 'Delaware', param: 'dover'},
+    ],
+    'District of Columbia': [
+      {city: 'Washington DC', param: 'washington-dc'},
+    ],
+    Florida: [
+      {city: 'Deltona / Daytona Beach, FL', param: 'deltona-daytona-beach'},
+      {city: 'Jacksonville, FL', param: 'jacksonville'},
+      {city: 'Miami, FL', param: 'miami'},
+      {city: 'Orlando, FL', param: 'orlando'},
+      {city: 'Pensacola, FL / Mobile, AL', param: 'mobile-pensacola'},
+      {city: 'Sarasota / Bradenton, FL', param: 'sarasota-bradenton'},
+      {city: 'Tampa, FL', param: 'tampa'},
+    ],
+    Georgia: [
+      {city: 'Atlanta, GA', param: 'atlanta'},
+    ],
+    Hawaii: [
+      {city: 'Honolulu, HI', param: 'honolulu'},
+    ],
+    Idaho: [
+      {city: 'Boise, ID', param: 'boise'},
+    ],
+    Illinois: [
+      {city: 'Chicago, IL', param: 'chicago'},
+    ],
+    Indiana: [
+      {city: 'Indianapolis, IN', param: 'indianapolis'},
+    ],
+    Iowa: [
+      {city: 'Cedar Rapids / Iowa City, IA', param: 'cedar-rapids-iowa-city'},
+      {city: 'Des Moines, IA', param: 'des-moines'},
+    ],
+    Kansas: [
+      {city: 'Wichita, KS', param: 'wichita'},
+    ],
+    Kentucky: [
+      {city: 'Louisville, KY', param: 'louisville' },
+      {city: 'Huntington, WV / Ashland, KY', param: 'huntington-ashland' },
+    ],
+    Louisiana: [
+      {city: 'New Orleans / Baton Rouge, LA', param: 'new orleans-baton-rouge'},
+    ],
+    Maine: [
+      {city: 'Portland, ME', param: 'portland'},
+    ],
+    Maryland: [
+      {city: 'Baltimore, MD', param: 'baltimore'},
+    ],
+    Massachusetts: [
+      {city: 'Boston, MA', param: 'boston'},
+    ],
+    Michigan: [
+      {city: 'Detroit, MI / Toledo, OH', param: 'detroit'},
+      {city: 'Grand Rapids, MI', param: 'grand-rapids'},
+    ],
+    Minnesota: [
+      {city: 'Minneapolis / Duluth, MN', param: 'minneapolis'},
+    ],
+    Mississippi: [
+      {city: 'Jackson, MS', param: 'jackson'},
+    ],
+    Missouri: [
+      {city: 'Kansas City, MO', param: 'kansas-city'},
+      {city: 'Saint Louis, MO', param: 'saint-louis'},
+    ],
+    Montana: [
+      {city: 'Billings, MT', param: 'billings' },
+    ],
+    Nebraska: [
+      {city: 'Omaha, NE', param: 'omaha'},
+    ],
+    Nevada: [
+      {city: 'Las Vegas, NV', param: 'las-vegas'},
+      {city: 'Reno, NV', param: 'reno'},
+    ],
+    'New Hampshire': [
+      {city: 'Manchester / Nashua, NH', param: 'manchester-nashua' },
+    ],
+    'New Jersey': [
+      {city: 'Trenton, NJ', param: 'trenton'},
+    ],
+    'New Mexico': [
+      {city: 'Albuquerque, NM', param: 'albuquerque'},
+    ],
+    'New York': [
+      {city: 'Buffalo, NY / Niagara Falls', param: 'buffalo-niagara-falls'},
+      {city: 'New York, NY', param: 'new-york'},
+      {city: 'Rochester, NY', param: 'rochester'},
+      {city: 'Syracuse / Albany, NY', param: 'syracuse-albany'},
+    ],
+    'North Carolina': [
+      {city: 'Charlotte, NC', param: 'charlotte'},
+      {city: 'Raleigh/Durham, NC', param: 'raleigh-durham'},
+      {city: 'Winston-Salem, NC', param: 'winston-salem'},
+      {city: 'Greensboro, NC', param: 'greensboro' },
+    ],
+    'North Dakota':[
+      {city: 'Fargo, ND', param: 'fargo' },
+    ],
+    Ohio: [
+      {city: 'Cincinnati / Dayton, OH', param: 'cincinnati'},
+      {city: 'Cleveland / Akron, OH', param: 'cleveland'},
+      {city: 'Columbus, OH', param: 'columbus'},
+      {city: 'Toledo, OH / Detroit, MI', param: 'detroit'},
+      {city: 'Youngstown, OH / Pittsburgh PA', param: 'pittsburgh'},
+    ],
+    Oklahoma: [
+      {city: 'Oklahoma City / Tulsa, OK', param: 'oklahoma-city-tulsa'},
+    ],
+    Oregon: [
+      {city: 'Portland, OR', param: 'portland'},
+    ],
+    Pennsylvania: [
+      {city: 'Philadelphia, PA', param: 'philadelphia'},
+      {city: 'Pittsburgh PA / Youngstown, OH', param: 'pittsburgh'},
+      {city: 'Allentown / Bethlehem, PA, WA', param: 'allenton-bethlehem' },
+    ],
+    'Rhode Island': [
+      {city: 'Rhode Island', param: 'rhode-island'},
+    ],
+    'South Carolina': [
+      {city: 'Charleston, SC', param: 'charleston'},
+      {city: 'Columbia, SC', param: 'columbia'},
+      {city: 'Greenville, SC', param: 'greenville'},
+    ],
+    'South Dakota': [
+      {city: 'Sioux Falls, SD', param: 'sioux falls'},
+    ],
+    Tennessee: [
+      {city: 'Knoxville / Chattanooga, TN', param: 'knoxville-chattanooga'},
+      {city: 'Memphis, TN', param: 'memphis'},
+      {city: 'Nashville, TN', param: 'nashville'},
+    ],
+    Texas: [
+      {city: 'Austin, TX', param: 'austin'},
+      {city: 'Dallas / Fort Worth, TX', param: 'dallas-fort-worth'},
+      {city: 'El Paso, TX', param: 'el-paso'},
+      {city: 'Houston, TX', param: 'houston'},
+      {city: 'San Antonio, TX', param: 'san-antonio'},
+    ],
+    Utah: [
+      {city: 'Salt Lake City / Provo, UT', param: 'salt-lake-city-provo'},
+    ],
+    Vermont: [
+      {city: 'Burlington, VT', param: 'burlington' },
+    ],
+    Virginia: [
+      {city: 'Richmond, VA', param: 'richmond'},
+      {city: 'Roanoke, VA', param: 'roanoke'},
+      {city: 'Virginia Beach / Norfolk, VA', param: 'virginia-beach-norfolk'},
+    ],
+    Washington: [
+      {city: 'Kennewick / Richland / Pasco, WA', param: 'kennewick-tri-cities'},
+      {city: 'Seattle, WA', param: 'seattle'},
+      {city: 'Spokane, WA', param: 'spokane'},
+      {city: 'Allentown / Bethlehem, PA, WA', param: 'allenton-bethlehem' },
+    ],
+    'West Virginia': [
+      {city: 'Huntington, WV / Ashland, KY', param: 'huntington-ashland' },
+    ],
+    Wisconsin: [
+      {city: 'Milwaukee / Madison, WI', param: 'milwaukee-madison'},
+    ],
+    Wyoming: [
+      {city: 'Cheyenne, WY', param: 'cheyenne' },
+    ]
+  }
+}

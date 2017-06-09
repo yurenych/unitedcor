@@ -1,0 +1,30 @@
+{
+  "Australia": [
+    {"city": "Melbourne", "param": "melbourne"},
+    {"city": "Sydney", "param": "sydney"}
+  ],
+  "Canada": [
+    {"city": "Calgary", "param": "calgary"},
+    {"city": "Montreal", "param": "montreal"},
+    {"city": "Quebec", "param": "quebec"},
+    {"city": "Toronto", "param": "toronto"},
+    {"city": "Vancouver", "param": "vancouver"}
+  ],
+  "Ireland": [
+    {"city": "Dublin", "param": "dublin"}
+  ],
+  "New Zealand": [
+    {"city": "Auckland", "param": "auckland"}
+  ],
+  "South Africa": [
+    {"city": "Johannesburg", "param": "johannesburg"}
+  ],
+  "United Kingdom": [
+    {"city": "Birmingham / Oxford", "param": "birmingham-oxford"},
+    {"city": "Cardiff", "param": "cardiff"},
+    {"city": "Edinburgh", "param": "edinburgh"},
+    {"city": "Leeds / York / Sheffield", "param": "leeds-york-sheffield"},
+    {"city": "London", "param": "london"},
+    {"city": "Manchester / Liverpool", "param": "manchester-liverpool"}
+  ]
+}
